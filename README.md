@@ -57,7 +57,7 @@
 
 | Tampilan Utama | Fitur Filter & Search |
 | :---: | :---: |
-| <img src="./screenshots/home.png" width="300" style="border-radius: 8px;" /> | <img src="./screenshots/filter.png" width="300" style="border-radius: 8px;" /> |
+| <img src="public/homepage.png" width="300" style="border-radius: 8px;" /> | <img src="public/filter.png" width="300" style="border-radius: 8px;" /> |
 | *Daftar Belanjaan* | *Pencarian & Status* |
 
 ---
