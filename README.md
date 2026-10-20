@@ -39,7 +39,7 @@
 - **State Management**: Vue Reactivity System (`ref`, `computed`, `watch`)
 - **Icons & Badges**: Shields.io
 
----
+```
 
 ##📂 Struktur Folder
 ├── src/
@@ -51,7 +51,7 @@
 ├── package.json       # Konfigurasi dependensi & script
 └── README.md          # Dokumentasi proyek
 
----
+```
 
 ###  📸 Tampilan Aplikasi
 
