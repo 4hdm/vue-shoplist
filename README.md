@@ -59,3 +59,15 @@
 | :---: | :---: |
 | <img src="./screenshots/home.png" width="300" style="border-radius: 8px;" /> | <img src="./screenshots/filter.png" width="300" style="border-radius: 8px;" /> |
 | *Daftar Belanjaan* | *Pencarian & Status* |
+
+---
+## 🤝 Kontribusi
+Kontribusi selalu terbuka! Jika Anda memiliki saran atau perbaikan:
+
+1. Fork repository ini.
+2. Buat feature branch baru (git checkout -b fitur-keren).
+3. Commit perubahan Anda (git commit -m 'Menambahkan fitur keren').
+4. Push ke branch tersebut (git push origin fitur-keren).
+5. Buat Pull Request.
+
+##
