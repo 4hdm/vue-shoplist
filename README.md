@@ -41,14 +41,21 @@
 
 ---
 
-## 🚀 Cara Menjalankan Proyek
+##📂 Struktur Folder
+├── src/
+│   ├── assets/        # File aset (CSS, gambar, logo)
+│   ├── components/    # Komponen Reusable Vue
+│   ├── App.vue        # Komponen Utama VueShop List
+│   └── main.js        # Entry point aplikasi
+├── public/            # Aset publik
+├── package.json       # Konfigurasi dependensi & script
+└── README.md          # Dokumentasi proyek
 
-### Prasyarat
+---
 
-Pastikan Anda sudah menginstal [Node.js](https://nodejs.org/) di perangkat Anda.
+###  📸 Tampilan Aplikasi
 
-### Langkah-langkah
-
-1. **Clone repository ini:**
-   ```bash
-   git clone [https://github.com/username/repository-name.git](https://github.com/username/repository-name.git)
+| Tampilan Utama | Fitur Filter & Search |
+| :---: | :---: |
+| <img src="./screenshots/home.png" width="300" style="border-radius: 8px;" /> | <img src="./screenshots/filter.png" width="300" style="border-radius: 8px;" /> |
+| *Daftar Belanjaan* | *Pencarian & Status* |
