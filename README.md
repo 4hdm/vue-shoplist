@@ -70,4 +70,10 @@ Kontribusi selalu terbuka! Jika Anda memiliki saran atau perbaikan:
 4. Push ke branch tersebut (git push origin fitur-keren).
 5. Buat Pull Request.
 
-##
+## 👨‍💻 Tentang Pengembang
+AHDAM ASHARI
+
+Mahasiswa Teknik Informatika - STITEK Bontang
+
+📍 Bontang, Kalimantan Timur, Indonesia
+
